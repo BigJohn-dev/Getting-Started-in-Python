@@ -10,7 +10,7 @@ print('5\t25\t125')
 
 # printing table of square and cubes right align
 
-print('\nnumber\tsquare\tcube')
+print('number\tsquare\tcube')
 print ('0\t0\t0')
 print('1\t1\t1')
 print('2\t4\t8')
